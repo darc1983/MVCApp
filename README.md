@@ -1,2 +1,0 @@
-# MVCApp
-BidOne -  Coding Test
